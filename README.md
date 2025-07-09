@@ -5,7 +5,7 @@
 
 **Location:** `Energia/Temp_Buzz/`
 
-This code runs on a microcontroller (e.g., MSP430) using the [Energia IDE](https://energia.nu/).
+This code runs on a microcontroller (CC3200LaunchXL) using the [Energia IDE](https://energia.nu/).
 ---
 
 ## Temperature Application
