@@ -10,7 +10,7 @@ This code runs on a microcontroller (e.g., MSP430) using the [Energia IDE](https
 
 ## Temperature Application
 
-**Location:** `Main/`
+**Location:** `MainApp/`
 
 This is the Android application that receives temperature data from the microcontroller. It:
 
